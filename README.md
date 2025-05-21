@@ -1,6 +1,6 @@
-# Awesome Pool
+# Awesome Pool 🎱
 
-Awesome list of pool resources
+Awesome list of pool resources 🎱
 
 ## Apps
 
