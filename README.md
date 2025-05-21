@@ -17,7 +17,7 @@ Awesome list of pool resources
 ## Games
 
 - [billiards](https://github.com/tailuge/billiards) - billiards physics in the browser
-- **[pooltool](https://github.com/ekiefl/pooltool)** - A sandbox billiards game that emphasizes realistic physics
+- [pooltool](https://github.com/ekiefl/pooltool) - A sandbox billiards game that emphasizes realistic physics
 
 ## Leagues
 
