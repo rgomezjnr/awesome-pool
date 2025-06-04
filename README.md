@@ -22,8 +22,10 @@ Awesome list of pool resources 🎱
 ## Leagues
 
 - [American Poolplayers Association (APA)](https://poolplayers.com/)
-- [BCA Pool League](https://www.playcsipool.com/bcapl.html)
+- [Billiard Congress of America (BCA) Pool League](https://www.playcsipool.com/bcapl.html)
 - [CueSports International (CSI)](https://www.playcsipool.com/)
+- [North American Poolshooters Association (NAPA)](https://playpool.io/)
+- [USA Pool League](https://www.playcsipool.com/usapl.html)
 
 ## Organizations
 
@@ -53,4 +55,8 @@ Awesome list of pool resources 🎱
 
 ### YouTube
 
+- [CueSports International](https://www.youtube.com/c/WorldBilliardTV) - CueSports International - formerly World Billiard TV - hosts the largest collection of billiard, pool and cue sports matches on YouTube, with over 1,600 videos uploaded since 2014, live streaming of professional and league pool tournaments!
+- [DrDaveBilliards](https://www.youtube.com/@DrDaveBilliards) - Dr. Dave is a PBIA Master Instructor and an instructional author.
+- [POVPOOL](https://www.youtube.com/@POVPOOL) - 90% of the videos on this channel are all produced and directed by us. We take pride in only posting our original footage. Please Subscribe to this channel and watch coverage of live-streamed pool action, videotaped at some of the best billiard venues in the U.S.
 - [Sharivari](https://www.youtube.com/@Sharivari) - If you love pool, this is the right place.
+- [Venom Trickshots](https://www.youtube.com/@VenomTrickshotsOfficial) - A new era in artistic pool is emerging and VENOM TRICKSHOTS is at the forefront of this transformation. Introducing Florian 'VENOM' Kohler, the Internet sensation that is redefining the sport through his creativity and innovation.
