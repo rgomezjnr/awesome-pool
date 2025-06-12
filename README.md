@@ -60,3 +60,15 @@ Awesome list of pool resources 🎱
 - [POVPOOL](https://www.youtube.com/@POVPOOL) - 90% of the videos on this channel are all produced and directed by us. We take pride in only posting our original footage. Please Subscribe to this channel and watch coverage of live-streamed pool action, videotaped at some of the best billiard venues in the U.S.
 - [Sharivari](https://www.youtube.com/@Sharivari) - If you love pool, this is the right place.
 - [Venom Trickshots](https://www.youtube.com/@VenomTrickshotsOfficial) - A new era in artistic pool is emerging and VENOM TRICKSHOTS is at the forefront of this transformation. Introducing Florian 'VENOM' Kohler, the Internet sensation that is redefining the sport through his creativity and innovation.
+
+<br>
+<br>
+<br>
+
+## Contributors
+
+- [pyrite357](https://github.com/pyrite357)
+
+## Author
+
+- [rgomezjnr](https://github.com/rgomezjnr)
