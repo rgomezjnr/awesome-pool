@@ -1,5 +1,7 @@
 # Awesome Pool 🎱
 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+
 Awesome list of pool resources 🎱
 
 ## Apps
