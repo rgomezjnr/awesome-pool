@@ -44,6 +44,13 @@ Awesome list of pool resources 🎱
 - [pooltables.nyc](https://pooltables.nyc) - Pool tables in NYC Tracking 400 bars and pool halls
 - [Yelp - Best Places to Play Pool Near Me](https://www.yelp.com/nearme/places-to-play-pool) - Pool is a classic sociable pastime. All you need is a table to play it on. Here’s a roundup of pool and billiard parlors, bars and pubs, and even upscale lounges where you can grab a beer and shoot some stick. Bring your friends or meet some new people at one of these spots near you.
 
+## Professional Players
+
+- [Jeanette Lee](https://www.instagram.com/jeanettelee/?hl=en) - US Open Champion, Billiards Hall of Fame, ESPN 30 for 30, World Games Gold Medalist. [www.gofundme.com/f/jeanette-lee-legacy-fund](www.gofundme.com/f/jeanette-lee-legacy-fund)
+- [Jeremy Jones](https://www.instagram.com/jeremyjonespool/?hl=en) - Jeremy Jones (born April 30, 1971, in Baytown, Texas) is a professional pool player. He was the 1998 US Open One Pocket champion, the 2003 US Open 9 Ball champion, and has represented Team USA in the Mosconi Cup on seven occasions. Jones was the runner-up at the 1999 WPA World Nine-ball Championship losing 13–8 to Nick Varner in the final. https://en.wikipedia.org/wiki/Jeremy_Jones_(pool_player)
+- [Fedor Gorst](https://www.fedorgorst.com) - FEDOR STRIVES FOR EXCELLENCE — ON AND OFF THE TABLE. HE PUSHES TO ELEVATE HIS GAME AND BECOME THE BEST VERSION OF HIMSELF, INSPIRING OTHERS TO DO THE SAME. EXPLORE HIS EXCLUSIVE COLLECTION OR DISCOVER MORE ABOUT THE STORY BEHIND THE CHAMPION.
+- [Shane Van Boening](https://www.instagram.com/shanevanboening/?hl=en) - WNT PRO Pool Player Athlete 2022,2023 World8-9 Ball Champion🏆 5x USOPEN9 BALL🏆 17x USAMosconiCupMember🏅 Cuetec🏆 Rasson VNEAPool HOWTip WorldTraveler
+
 ## Social Media
 
 ### reddit
