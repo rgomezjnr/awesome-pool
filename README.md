@@ -14,7 +14,7 @@ Awesome list of pool resources 🎱
 
 ## Books
 
-- [Byrne's New Standard Book Of Pool And Billiards, Robert Byrne](http://www.byrne.org/pool/books.html#:~:text=Byrne%27s%20New%20Standard%20Book%20of%20Pool%20and%20Billiards)
+- [Byrne's New Standard Book Of Pool And Billiards, Robert Byrne](http://www.byrne.org/pool/books.html#:~:text=Byrne%27s%20New%20Standard%20Book%20of%20Pool%20and%20Billiards) - An expanded edition of the 1978 work, with indices, references, and four new chapters. Over 400,000 sold.
 
 ## Games
 
@@ -23,26 +23,26 @@ Awesome list of pool resources 🎱
 
 ## Leagues
 
-- [American Poolplayers Association (APA)](https://poolplayers.com/)
-- [Billiard Congress of America (BCA) Pool League](https://www.playcsipool.com/bcapl.html)
-- [CueSports International (CSI)](https://www.playcsipool.com/)
-- [North American Poolshooters Association (NAPA)](https://playpool.io/)
-- [USA Pool League](https://www.playcsipool.com/usapl.html)
+- [American Poolplayers Association (APA)](https://poolplayers.com/) - The World's Largest Pool League
+- [Billiard Congress of America (BCA) Pool League](https://www.playcsipool.com/bcapl.html) - The BCA Pool League is an umbrella membership organization that allows pool leagues around the world to "Be Part of Something Bigger."
+- [CueSports International (CSI)](https://www.playcsipool.com/) - CueSports International is the parent company of the BCA Pool League, USA Pool League and numerous amateur and professional events across the globe.
+- [North American Poolshooters Association (NAPA)](https://playpool.io/) - NAPA, founded in 2010 by Tony Heinz in Hot Springs, Arkansas, is a billiards organization that uses the CueSpeed Billiard Rating System to manage player handicaps, offers various league formats and games, provides lifetime player profiles with detailed stats, and hosts cash-prize tournaments across North America, culminating in an annual International Championships in October.
+- [USA Pool League](https://www.playcsipool.com/usapl.html) - The USA Pool League is an amateur league designed to provide the most fair and fun pool experience in the world.
 
 ## Organizations
 
-- [Billiard Congress of America (BCA)](http://www.bca-pool.com/)
+- [Billiard Congress of America (BCA)](http://www.bca-pool.com/) - The Billiard Congress of America (BCA) is dedicated to fostering the growth and  excellence of our industry. BCA members gain access to networking and community-building resources at our annual trade show, discounts with leading manufacturers, and a robust library of industry research and business news. Additionally, the BCA oversees the Billiard Congress of America Hall of Fame, and operates the Professional Billiard Instructors Association (PBIA).
 
 ## Podcasts
 
-- [The Joe Rogan Experience #1917 - Fedor Gorst](https://open.spotify.com/episode/7iB407yGUg4DxfkATEkSgL?si=RKS9EWibSp6Bncn1Sh86Ag)
-- [The Joe Rogan Experience #2034 - Jeremy Jones](https://open.spotify.com/episode/1D1e8nCqFmxTxI0ZaVGs03?si=bjyuSDuQR4icNnVWhW2dag)
+- [The Joe Rogan Experience #1917 - Fedor Gorst](https://open.spotify.com/episode/7iB407yGUg4DxfkATEkSgL?si=RKS9EWibSp6Bncn1Sh86Ag) - Fedor Gorst is a professional pool player whose career highlights include championship wins at the World Nine-Ball Championship, U.S. Open Pool Championship, and the Derby City Classic. [www.fedorgorst.com](https://www.fedorgorst.com)
+- [The Joe Rogan Experience #2034 - Jeremy Jones](https://open.spotify.com/episode/1D1e8nCqFmxTxI0ZaVGs03?si=bjyuSDuQR4icNnVWhW2dag) - Jeremy Jones is a professional pool player. He was the 1998 US Open One Pocket champion, the 2003 US Open 9 Ball champion, and has represented Team USA in the Mosconi Cup on seven occasions.
 
 ## Pool halls, bars, etc.
 
 - [letsshootpool.com](https://letsshootpool.com) - A curated list of notable places to shoot pool 🔫🎱!
 - [pooltables.nyc](https://pooltables.nyc) - Pool tables in NYC Tracking 400 bars and pool halls
-- [Yelp - Best Places to Play Pool Near Me](https://www.yelp.com/nearme/places-to-play-pool)
+- [Yelp - Best Places to Play Pool Near Me](https://www.yelp.com/nearme/places-to-play-pool) - Pool is a classic sociable pastime. All you need is a table to play it on. Here’s a roundup of pool and billiard parlors, bars and pubs, and even upscale lounges where you can grab a beer and shoot some stick. Bring your friends or meet some new people at one of these spots near you.
 
 ## Social Media
 
@@ -53,7 +53,7 @@ Awesome list of pool resources 🎱
 
 ## TV
 
-- [BilliardTV](https://streamstak.com/billiardtv)
+- [BilliardTV](https://streamstak.com/billiardtv) - Free 24/7 billiards streaming channel, powered by [STREAMSTAK](https://streamstak.com/)
 
 ### YouTube
 
