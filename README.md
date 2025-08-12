@@ -3,7 +3,7 @@
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 <img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/cc-zero.png" alt="CC0 1.0 Universal" width="116" height="41">
 
-Awesome list of pool resources 🎱
+Awesome list of pool resources! 🎱
 
 ## Apps
 
