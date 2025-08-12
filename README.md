@@ -1,6 +1,7 @@
 # Awesome Pool 🎱
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+<img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/cc-zero.png" alt="CC0 1.0 Universal" width="116" height="41">
 
 Awesome list of pool resources 🎱
 
@@ -73,6 +74,10 @@ Awesome list of pool resources 🎱
 <br>
 <br>
 <br>
+
+## License
+
+© 2025. This work is openly licensed via [CC0 1.0 Universal](https://creativecommons.org/publicdomain/zero/1.0/).
 
 ## Contributors
 
