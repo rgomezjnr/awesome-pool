@@ -4,6 +4,22 @@
 <img src="https://mirrors.creativecommons.org/presskit/buttons/88x31/png/cc-zero.png" alt="CC0 1.0 Universal" width="116" height="41">
 
 Awesome list of pool resources! 🎱
+- [Awesome Pool 🎱](#awesome-pool-)
+  - [Apps](#apps)
+  - [Books](#books)
+  - [Games](#games)
+  - [Leagues](#leagues)
+  - [Organizations](#organizations)
+  - [Podcasts](#podcasts)
+  - [Pool halls, bars, etc.](#pool-halls-bars-etc)
+  - [Professional Players](#professional-players)
+  - [Social Media](#social-media)
+    - [reddit](#reddit)
+  - [TV](#tv)
+    - [YouTube](#youtube)
+  - [License](#license)
+  - [Contributors](#contributors)
+  - [Author](#author)
 
 ## Apps
 
