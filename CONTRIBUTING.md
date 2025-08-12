@@ -8,7 +8,7 @@ Please follow these guidelines:
 
 1. Check for duplicates before modifying/submitting.
 2. Ensure the resource is related to pool/billiards.
-3. Add your resource to the appropriate section, or create a new one if none of the existing ones apply.
+3. Add your resource to the appropriate section, or create a new one if none of the existing ones apply. Maintain alphabetical order.
 4. Provide a brief description of the resource. Use the official resource's description if available.
 5. Submit a pull request with your changes.
 
