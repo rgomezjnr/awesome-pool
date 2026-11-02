@@ -28,6 +28,7 @@ Awesome list of pool resources! 🎱
 - [BCAPL Scoring App](https://www.playcsipool.com/csinews/bca-pool-league-scoring-app) - This is the official BCAPL Scoring App of the BCAPL league and allows members to score league matches and instantly submit them to FargoRate's League Management System. No paper, no printing, and no math on league night!
 - [CompuSport](https://compusport.ca/) - THE ONLY FULLY AUTOMATED EVENT MANAGEMENT SYSTEM OUT THERE Designed for any competition, specialized for pool, dart, foosball and ping-pong
 - [FargoRate](https://fargorate.com/) - FargoRate computes pocket-billiard player ratings called Fargo Ratings that rate amateur and professional players worldwide.
+- [ScoreZone.com.pl](https://scorezone.com.pl/en/) - Currently free web and Windows platform for billiard venue management, pool and snooker tournaments and leagues, table assignments, live scoring, public or private match results, and YouTube score overlays.
 
 ## Books
 
